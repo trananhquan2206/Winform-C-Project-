@@ -1,0 +1,182 @@
+D:\doan\winform\DoAn\BUS\bin\Debug\BUS.dll
+D:\doan\winform\DoAn\BUS\bin\Debug\BUS.pdb
+D:\doan\winform\DoAn\BUS\bin\Debug\DAO.dll
+D:\doan\winform\DoAn\BUS\bin\Debug\DTO.dll
+D:\doan\winform\DoAn\BUS\bin\Debug\EntityFramework.dll
+D:\doan\winform\DoAn\BUS\bin\Debug\DAO.pdb
+D:\doan\winform\DoAn\BUS\bin\Debug\DAO.dll.config
+D:\doan\winform\DoAn\BUS\bin\Debug\DTO.pdb
+D:\doan\winform\DoAn\BUS\bin\Debug\EntityFramework.xml
+D:\doan\winform\DoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\doan\winform\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\doan\winform\DoAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\doan\winform\DoAn\BUS\obj\Debug\BUS.dll
+D:\doan\winform\DoAn\BUS\obj\Debug\BUS.pdb
+C:\Users\VAN QUOC\Desktop\DoAn\BUS\bin\Debug\BUS.dll
+C:\Users\VAN QUOC\Desktop\DoAn\BUS\bin\Debug\BUS.pdb
+C:\Users\VAN QUOC\Desktop\DoAn\BUS\bin\Debug\DAO.dll
+C:\Users\VAN QUOC\Desktop\DoAn\BUS\bin\Debug\DTO.dll
+C:\Users\VAN QUOC\Desktop\DoAn\BUS\bin\Debug\EntityFramework.dll
+C:\Users\VAN QUOC\Desktop\DoAn\BUS\bin\Debug\DAO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn\BUS\bin\Debug\DAO.dll.config
+C:\Users\VAN QUOC\Desktop\DoAn\BUS\bin\Debug\DTO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn\BUS\bin\Debug\EntityFramework.xml
+C:\Users\VAN QUOC\Desktop\DoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\VAN QUOC\Desktop\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\VAN QUOC\Desktop\DoAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\VAN QUOC\Desktop\DoAn\BUS\obj\Debug\BUS.dll
+C:\Users\VAN QUOC\Desktop\DoAn\BUS\obj\Debug\BUS.pdb
+D:\DoAn\DoAn\BUS\bin\Debug\BUS.dll
+D:\DoAn\DoAn\BUS\bin\Debug\BUS.pdb
+D:\DoAn\DoAn\BUS\bin\Debug\DAO.dll
+D:\DoAn\DoAn\BUS\bin\Debug\DTO.dll
+D:\DoAn\DoAn\BUS\bin\Debug\EntityFramework.dll
+D:\DoAn\DoAn\BUS\bin\Debug\DAO.pdb
+D:\DoAn\DoAn\BUS\bin\Debug\DAO.dll.config
+D:\DoAn\DoAn\BUS\bin\Debug\DTO.pdb
+D:\DoAn\DoAn\BUS\bin\Debug\EntityFramework.xml
+D:\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\DoAn\DoAn\BUS\obj\Debug\BUS.dll
+D:\DoAn\DoAn\BUS\obj\Debug\BUS.pdb
+E:\DoAn\DoAn\BUS\bin\Debug\BUS.dll
+E:\DoAn\DoAn\BUS\bin\Debug\BUS.pdb
+E:\DoAn\DoAn\BUS\bin\Debug\DAO.dll
+E:\DoAn\DoAn\BUS\bin\Debug\DTO.dll
+E:\DoAn\DoAn\BUS\bin\Debug\EntityFramework.dll
+E:\DoAn\DoAn\BUS\bin\Debug\DAO.pdb
+E:\DoAn\DoAn\BUS\bin\Debug\DAO.dll.config
+E:\DoAn\DoAn\BUS\bin\Debug\DTO.pdb
+E:\DoAn\DoAn\BUS\bin\Debug\EntityFramework.xml
+E:\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\DoAn\DoAn\BUS\obj\Debug\BUS.dll
+E:\DoAn\DoAn\BUS\obj\Debug\BUS.pdb
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\BUS\bin\Debug\BUS.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\BUS\bin\Debug\BUS.pdb
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\BUS\bin\Debug\DAO.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\BUS\bin\Debug\DTO.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\BUS\bin\Debug\EntityFramework.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\BUS\bin\Debug\DAO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\BUS\bin\Debug\DAO.dll.config
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\BUS\bin\Debug\DTO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\BUS\bin\Debug\EntityFramework.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\BUS\obj\Debug\BUS.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\BUS\obj\Debug\BUS.pdb
+E:\LTWDs\TestDoAn\DoAn\DoAn\BUS\bin\Debug\BUS.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\BUS\bin\Debug\BUS.pdb
+E:\LTWDs\TestDoAn\DoAn\DoAn\BUS\bin\Debug\DAO.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\BUS\bin\Debug\DTO.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\BUS\bin\Debug\EntityFramework.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\BUS\bin\Debug\DAO.pdb
+E:\LTWDs\TestDoAn\DoAn\DoAn\BUS\bin\Debug\DAO.dll.config
+E:\LTWDs\TestDoAn\DoAn\DoAn\BUS\bin\Debug\DTO.pdb
+E:\LTWDs\TestDoAn\DoAn\DoAn\BUS\bin\Debug\EntityFramework.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\LTWDs\TestDoAn\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\LTWDs\TestDoAn\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\LTWDs\TestDoAn\DoAn\DoAn\BUS\obj\Debug\BUS.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\BUS\obj\Debug\BUS.pdb
+D:\DoAn_Final\DoAn_Final\DoAn\BUS\bin\Debug\BUS.dll
+D:\DoAn_Final\DoAn_Final\DoAn\BUS\bin\Debug\BUS.pdb
+D:\DoAn_Final\DoAn_Final\DoAn\BUS\bin\Debug\DAO.dll
+D:\DoAn_Final\DoAn_Final\DoAn\BUS\bin\Debug\DTO.dll
+D:\DoAn_Final\DoAn_Final\DoAn\BUS\bin\Debug\EntityFramework.dll
+D:\DoAn_Final\DoAn_Final\DoAn\BUS\bin\Debug\DAO.pdb
+D:\DoAn_Final\DoAn_Final\DoAn\BUS\bin\Debug\DAO.dll.config
+D:\DoAn_Final\DoAn_Final\DoAn\BUS\bin\Debug\DTO.pdb
+D:\DoAn_Final\DoAn_Final\DoAn\BUS\bin\Debug\EntityFramework.xml
+D:\DoAn_Final\DoAn_Final\DoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\DoAn_Final\DoAn_Final\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\DoAn_Final\DoAn_Final\DoAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\DoAn_Final\DoAn_Final\DoAn\BUS\obj\Debug\BUS.dll
+D:\DoAn_Final\DoAn_Final\DoAn\BUS\obj\Debug\BUS.pdb
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\BUS\bin\Debug\BUS.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\BUS\bin\Debug\BUS.pdb
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\BUS\bin\Debug\DAO.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\BUS\bin\Debug\DTO.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\BUS\bin\Debug\EntityFramework.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\BUS\bin\Debug\DAO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\BUS\bin\Debug\DAO.dll.config
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\BUS\bin\Debug\DTO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\BUS\bin\Debug\EntityFramework.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\BUS\obj\Debug\BUS.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\BUS\obj\Debug\BUS.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\BUS\bin\Debug\BUS.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\BUS\bin\Debug\BUS.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\BUS\bin\Debug\DAO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\BUS\bin\Debug\DTO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\BUS\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\BUS\bin\Debug\DAO.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\BUS\bin\Debug\DAO.dll.config
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\BUS\bin\Debug\DTO.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\BUS\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\BUS\obj\Debug\BUS.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\BUS\obj\Debug\BUS.pdb
+E:\Ảnh\DoAn (1)\DoAn\DoAn\BUS\bin\Debug\BUS.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\BUS\bin\Debug\BUS.pdb
+E:\Ảnh\DoAn (1)\DoAn\DoAn\BUS\bin\Debug\DAO.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\BUS\bin\Debug\DTO.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\BUS\bin\Debug\EntityFramework.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\BUS\bin\Debug\DAO.pdb
+E:\Ảnh\DoAn (1)\DoAn\DoAn\BUS\bin\Debug\DAO.dll.config
+E:\Ảnh\DoAn (1)\DoAn\DoAn\BUS\bin\Debug\DTO.pdb
+E:\Ảnh\DoAn (1)\DoAn\DoAn\BUS\bin\Debug\EntityFramework.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\Ảnh\DoAn (1)\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Ảnh\DoAn (1)\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Ảnh\DoAn (1)\DoAn\DoAn\BUS\obj\Debug\BUS.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\BUS\obj\Debug\BUS.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\BUS\bin\Debug\BUS.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\BUS\bin\Debug\BUS.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\BUS\bin\Debug\DAO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\BUS\bin\Debug\DTO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\BUS\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\BUS\bin\Debug\DAO.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\BUS\bin\Debug\DAO.dll.config
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\BUS\bin\Debug\DTO.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\BUS\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\BUS\obj\Debug\BUS.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\BUS\obj\Debug\BUS.pdb
+C:\Users\VAN QUOC\Desktop\a\DoAn\BUS\bin\Debug\BUS.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\BUS\bin\Debug\BUS.pdb
+C:\Users\VAN QUOC\Desktop\a\DoAn\BUS\bin\Debug\DAO.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\BUS\bin\Debug\DTO.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\BUS\bin\Debug\EntityFramework.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\BUS\bin\Debug\DAO.pdb
+C:\Users\VAN QUOC\Desktop\a\DoAn\BUS\bin\Debug\DAO.dll.config
+C:\Users\VAN QUOC\Desktop\a\DoAn\BUS\bin\Debug\DTO.pdb
+C:\Users\VAN QUOC\Desktop\a\DoAn\BUS\bin\Debug\EntityFramework.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\VAN QUOC\Desktop\a\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\VAN QUOC\Desktop\a\DoAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\VAN QUOC\Desktop\a\DoAn\BUS\obj\Debug\BUS.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\BUS\obj\Debug\BUS.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\BUS\bin\Debug\BUS.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\BUS\bin\Debug\BUS.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\BUS\bin\Debug\DAO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\BUS\bin\Debug\DTO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\BUS\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\BUS\bin\Debug\DAO.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\BUS\bin\Debug\DAO.dll.config
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\BUS\bin\Debug\DTO.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\BUS\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\BUS\obj\Debug\BUS.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\BUS\obj\Debug\BUS.pdb

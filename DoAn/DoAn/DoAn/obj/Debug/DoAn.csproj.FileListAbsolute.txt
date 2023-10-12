@@ -1,0 +1,1973 @@
+D:\doan\winform\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\doan\winform\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\doan\winform\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\doan\winform\DoAn\DoAn\bin\Debug\EntityFramework.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\Guna.Charts.WinForms.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\Guna.UI2.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\EntityFramework.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.xml
+D:\doan\winform\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+D:\doan\winform\DoAn\DoAn\obj\Debug\DoAn.csproj.SuggestedBindingRedirects.cache
+D:\doan\winform\DoAn\DoAn\obj\Debug\Đơn_Nhập.Ban_Hang.frmBanHang.resources
+D:\doan\winform\DoAn\DoAn\obj\Debug\Đơn_Nhập.Nhap_Hang.frmChi_Tiet_Hoa_Don.resources
+D:\doan\winform\DoAn\DoAn\obj\Debug\Đơn_Nhập.Ban_Hang.frmChi_Tiet_Hoa_Don_Ban.resources
+D:\doan\winform\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+D:\doan\winform\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmKhach_Hang.resources
+D:\doan\winform\DoAn\DoAn\obj\Debug\DoAn.frmLog.resources
+D:\doan\winform\DoAn\DoAn\obj\Debug\DoAn.frmNhanVien.resources
+D:\doan\winform\DoAn\DoAn\obj\Debug\Đơn_Nhập.NhapHang.frmNhapHang.resources
+D:\doan\winform\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmNha_Cung_Cap.resources
+D:\doan\winform\DoAn\DoAn\obj\Debug\DoAn.frmSanPham.resources
+D:\doan\winform\DoAn\DoAn\obj\Debug\DoAn.frmTaiKhoan.resources
+D:\doan\winform\DoAn\DoAn\obj\Debug\DoAn.frmTaoTaiKhoan.resources
+D:\doan\winform\DoAn\DoAn\obj\Debug\Đơn_Nhập.Ban_Hang.frmThem_Hoa_Don_Ban.resources
+D:\doan\winform\DoAn\DoAn\obj\Debug\DoAn.frmThongKe.resources
+D:\doan\winform\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_Khach_Hang.resources
+D:\doan\winform\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_NCC.resources
+D:\doan\winform\DoAn\DoAn\obj\Debug\DoAn.frmTrangChu.resources
+D:\doan\winform\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\doan\winform\DoAn\DoAn\obj\Debug\Đơn_Nhập.Nhap_Hang.frmThem_Hoa_Don_Nhap.resources
+D:\doan\winform\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\doan\winform\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\doan\winform\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+D:\doan\winform\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\doan\winform\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\doan\winform\DoAn\DoAn\bin\Debug\BUS.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DTO.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DAO.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\BUS.pdb
+D:\doan\winform\DoAn\DoAn\bin\Debug\DTO.pdb
+D:\doan\winform\DoAn\DoAn\bin\Debug\DAO.pdb
+D:\doan\winform\DoAn\DoAn\bin\Debug\DAO.dll.config
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.Images.v22.2.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+D:\doan\winform\DoAn\DoAn\obj\Debug\DoAn.exe.licenses
+D:\doan\winform\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+D:\doan\winform\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\BUS.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DTO.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\EntityFramework.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\Guna.UI2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DAO.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\BUS.pdb
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DTO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\EntityFramework.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DAO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DAO.dll.config
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmKhach_Hang.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.frmLog.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.frmNhanVien.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmNha_Cung_Cap.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.frmSanPham.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.frmTaiKhoan.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.frmTaoTaiKhoan.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.frmThongKe.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_Khach_Hang.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_NCC.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.frmTrangChu.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.exe.licenses
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonBan.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonNhap.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.frmQuanLyBanHang.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\do_an_winform.frmQuanLyNhapHang.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.frmThemHoaDonBan.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\do_an_winform.frmThemHoaDonNhap.resources
+D:\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\DoAn\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\DoAn\DoAn\DoAn\bin\Debug\BUS.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DAO.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Images.v22.2.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DTO.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\Guna.Charts.WinForms.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\Guna.UI2.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\BUS.pdb
+D:\DoAn\DoAn\DoAn\bin\Debug\DAO.pdb
+D:\DoAn\DoAn\DoAn\bin\Debug\DAO.dll.config
+D:\DoAn\DoAn\DoAn\bin\Debug\DTO.pdb
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.xml
+D:\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+D:\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.SuggestedBindingRedirects.cache
+D:\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonBan.resources
+D:\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonNhap.resources
+D:\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+D:\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+D:\DoAn\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmKhach_Hang.resources
+D:\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmLog.resources
+D:\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmNhanVien.resources
+D:\DoAn\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmNha_Cung_Cap.resources
+D:\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmQuanLyBanHang.resources
+D:\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmQuanLyNhapHang.resources
+D:\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmSanPham.resources
+D:\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTaiKhoan.resources
+D:\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTaoTaiKhoan.resources
+D:\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmThemHoaDonBan.resources
+D:\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmThemHoaDonNhap.resources
+D:\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmThongKe.resources
+D:\DoAn\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_Khach_Hang.resources
+D:\DoAn\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_NCC.resources
+D:\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTrangChu.resources
+D:\DoAn\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\DoAn\DoAn\DoAn\obj\Debug\DoAn.exe.licenses
+D:\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+D:\DoAn\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\DoAn\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\DoAn\DoAn\DoAn\obj\Debug\Fut.frmXemBaoCao.resources
+D:\DoAn\DoAn\DoAn\obj\Debug\Fut.KhachHang.rptKhachHang.resources
+E:\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe.config
+E:\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe
+E:\DoAn\DoAn\DoAn\bin\Debug\DoAn.pdb
+E:\DoAn\DoAn\DoAn\bin\Debug\BUS.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DAO.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.CodeParser.v22.2.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Drawing.v22.2.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Images.v22.2.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DTO.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\Guna.Charts.WinForms.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\Guna.UI2.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+E:\DoAn\DoAn\DoAn\bin\Debug\BUS.pdb
+E:\DoAn\DoAn\DoAn\bin\Debug\DAO.pdb
+E:\DoAn\DoAn\DoAn\bin\Debug\DAO.dll.config
+E:\DoAn\DoAn\DoAn\bin\Debug\DTO.pdb
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.xml
+E:\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.xml
+E:\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+E:\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.SuggestedBindingRedirects.cache
+E:\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonBan.resources
+E:\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonNhap.resources
+E:\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+E:\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+E:\DoAn\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmKhach_Hang.resources
+E:\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmLog.resources
+E:\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmNhanVien.resources
+E:\DoAn\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmNha_Cung_Cap.resources
+E:\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmQuanLyBanHang.resources
+E:\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmQuanLyNhapHang.resources
+E:\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmSanPham.resources
+E:\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTaiKhoan.resources
+E:\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTaoTaiKhoan.resources
+E:\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmThemHoaDonBan.resources
+E:\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmThemHoaDonNhap.resources
+E:\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmThongKe.resources
+E:\DoAn\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_Khach_Hang.resources
+E:\DoAn\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_NCC.resources
+E:\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTrangChu.resources
+E:\DoAn\DoAn\DoAn\obj\Debug\Fut.frmXemBaoCao.resources
+E:\DoAn\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+E:\DoAn\DoAn\DoAn\obj\Debug\Fut.KhachHang.rptKhachHang.resources
+E:\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+E:\DoAn\DoAn\DoAn\obj\Debug\DoAn.exe.licenses
+E:\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+E:\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+E:\DoAn\DoAn\DoAn\obj\Debug\DoAn.exe
+E:\DoAn\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Mvvm.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Mvvm.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraWizard.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraWizard.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.rptThu_Ngay.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.rptChi_Ngay.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.rptChi_Nam.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.rptChi_Quy.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.rptThu_Nam.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.rptThu_Quy.resources
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Mvvm.v22.2.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraWizard.v22.2.dll
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Mvvm.v22.2.xml
+D:\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraWizard.v22.2.xml
+D:\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Nam.resources
+D:\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Ngay.resources
+D:\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Quy.resources
+D:\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Nam.resources
+D:\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Ngay.resources
+D:\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Quy.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\BUS.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DAO.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Mvvm.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraWizard.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DTO.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\Guna.UI2.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\BUS.pdb
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DAO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DAO.dll.config
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DTO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Mvvm.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraWizard.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.SuggestedBindingRedirects.cache
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonBan.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonNhap.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmKhach_Hang.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmLog.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmNhanVien.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmNha_Cung_Cap.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmQuanLyBanHang.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmQuanLyNhapHang.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmSanPham.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTaiKhoan.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTaoTaiKhoan.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmThemHoaDonBan.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmThemHoaDonNhap.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmThongKe.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_Khach_Hang.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_NCC.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTrangChu.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\Fut.frmXemBaoCao.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Nam.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Ngay.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Quy.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\Fut.KhachHang.rptKhachHang.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Nam.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Ngay.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Quy.resources
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\DoAn.exe.licenses
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DoAn\obj\Debug\DoAn.pdb
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe.config
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DoAn.pdb
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\BUS.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DAO.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.CodeParser.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Drawing.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Images.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Mvvm.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraWizard.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DTO.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\Guna.Charts.WinForms.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\Guna.UI2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\BUS.pdb
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DAO.pdb
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DAO.dll.config
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DTO.pdb
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Mvvm.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraWizard.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonBan.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonNhap.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmKhach_Hang.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmLog.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmNhanVien.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmNha_Cung_Cap.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmQuanLyBanHang.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmQuanLyNhapHang.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmSanPham.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTaiKhoan.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTaoTaiKhoan.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmThemHoaDonBan.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmThemHoaDonNhap.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmThongKe.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_Khach_Hang.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_NCC.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTrangChu.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Nam.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Ngay.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Quy.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Nam.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Ngay.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Quy.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.exe.licenses
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.exe
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.pdb
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptSanPhamBanChay.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptKhachHang.resources
+E:\LTWDs\TestDoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptNhaCungCap.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\BUS.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DAO.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Images.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Mvvm.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraWizard.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DTO.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\EntityFramework.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\Guna.Charts.WinForms.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\Guna.UI2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\BUS.pdb
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DAO.pdb
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DAO.dll.config
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DTO.pdb
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Mvvm.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraWizard.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\EntityFramework.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonBan.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonNhap.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmKhach_Hang.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.frmLog.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.frmNhanVien.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmNha_Cung_Cap.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.frmQuanLyBanHang.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\do_an_winform.frmQuanLyNhapHang.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.frmSanPham.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.frmTaiKhoan.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.frmTaoTaiKhoan.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.frmThemHoaDonBan.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\do_an_winform.frmThemHoaDonNhap.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.frmThongKe.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_Khach_Hang.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_NCC.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.frmTrangChu.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.rptChi_Nam.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.rptChi_Ngay.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.rptChi_Quy.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.rptKhachHang.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.rptNhaCungCap.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.rptSanPhamBanChay.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.rptThu_Nam.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.rptThu_Ngay.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.rptThu_Quy.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.exe.licenses
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoNgay.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoNam.resources
+D:\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoQuy.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\BUS.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DAO.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Mvvm.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraWizard.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DTO.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\EntityFramework.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\Guna.UI2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\BUS.pdb
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DAO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DAO.dll.config
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DTO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Mvvm.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\DevExpress.XtraWizard.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\EntityFramework.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonBan.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonNhap.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmKhach_Hang.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.frmLog.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.frmNhanVien.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmNha_Cung_Cap.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.frmQuanLyBanHang.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\do_an_winform.frmQuanLyNhapHang.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.frmSanPham.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.frmTaiKhoan.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.frmTaoTaiKhoan.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.frmThemHoaDonBan.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\do_an_winform.frmThemHoaDonNhap.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.frmThongKe.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_Khach_Hang.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_NCC.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.frmTrangChu.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.rptChi_Nam.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.rptChi_Ngay.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.rptChi_Quy.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.rptKhachHang.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoNam.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoNgay.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoQuy.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.rptNhaCungCap.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.rptSanPhamBanChay.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.rptThu_Nam.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.rptThu_Ngay.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.rptThu_Quy.resources
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.exe.licenses
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.rptKhachHang.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoNam.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoNgay.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoQuy.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.rptNhaCungCap.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.rptSanPhamBanChay.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\BUS.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DAO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Mvvm.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraWizard.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DTO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\BUS.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DAO.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DAO.dll.config
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DTO.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Mvvm.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraWizard.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonBan.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonNhap.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmKhach_Hang.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmLog.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmNhanVien.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmNha_Cung_Cap.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmQuanLyBanHang.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmQuanLyNhapHang.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmSanPham.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTaiKhoan.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTaoTaiKhoan.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmThemHoaDonBan.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmThemHoaDonNhap.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmThongKe.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_Khach_Hang.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_NCC.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTrangChu.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Nam.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Ngay.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Quy.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptKhachHang.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoNam.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoNgay.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoQuy.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptNhaCungCap.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptSanPhamBanChay.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Nam.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Ngay.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Quy.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.exe.licenses
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.pdb
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe.config
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DoAn.pdb
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\BUS.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DAO.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.CodeParser.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Drawing.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Images.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Mvvm.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraWizard.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DTO.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\Guna.Charts.WinForms.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\Guna.UI2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\BUS.pdb
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DAO.pdb
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DAO.dll.config
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DTO.pdb
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Mvvm.v22.2.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraWizard.v22.2.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonBan.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonNhap.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmKhach_Hang.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmLog.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmNhanVien.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmNha_Cung_Cap.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmQuanLyBanHang.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmQuanLyNhapHang.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmSanPham.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTaiKhoan.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTaoTaiKhoan.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmThemHoaDonBan.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmThemHoaDonNhap.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmThongKe.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_Khach_Hang.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_NCC.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTrangChu.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Nam.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Ngay.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Quy.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptKhachHang.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoNam.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoNgay.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoQuy.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptNhaCungCap.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptSanPhamBanChay.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Nam.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Ngay.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Quy.resources
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.exe.licenses
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.exe
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonBan.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonNhap.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmKhach_Hang.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmLog.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmNhanVien.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmNha_Cung_Cap.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmQuanLyBanHang.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmQuanLyNhapHang.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmSanPham.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTaiKhoan.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTaoTaiKhoan.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmThemHoaDonBan.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmThemHoaDonNhap.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmThongKe.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_Khach_Hang.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_NCC.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTrangChu.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Nam.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Ngay.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Quy.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptKhachHang.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoNam.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoNgay.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoQuy.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptNhaCungCap.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptSanPhamBanChay.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Nam.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Ngay.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Quy.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.exe.licenses
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\BUS.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DAO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Mvvm.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraWizard.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DTO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\BUS.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DAO.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DAO.dll.config
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DTO.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Mvvm.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraWizard.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\BUS.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DAO.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Mvvm.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraWizard.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DTO.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\EntityFramework.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\Guna.UI2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\BUS.pdb
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DAO.pdb
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DAO.dll.config
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DTO.pdb
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Mvvm.v22.2.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\DevExpress.XtraWizard.v22.2.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\EntityFramework.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonBan.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonNhap.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmKhach_Hang.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.frmLog.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.frmNhanVien.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmNha_Cung_Cap.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.frmQuanLyBanHang.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\do_an_winform.frmQuanLyNhapHang.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.frmSanPham.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.frmTaiKhoan.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.frmTaoTaiKhoan.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.frmThemHoaDonBan.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\do_an_winform.frmThemHoaDonNhap.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.frmThongKe.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_Khach_Hang.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_NCC.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.frmTrangChu.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.rptChi_Nam.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.rptChi_Ngay.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.rptChi_Quy.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.rptKhachHang.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoNam.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoNgay.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoQuy.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.rptNhaCungCap.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.rptSanPhamBanChay.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.rptThu_Nam.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.rptThu_Ngay.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.rptThu_Quy.resources
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.exe.licenses
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\VAN QUOC\Desktop\a\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\BUS.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DAO.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Mvvm.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraWizard.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DTO.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\Guna.UI2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\BUS.pdb
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DAO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DAO.dll.config
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DTO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Mvvm.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraWizard.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonBan.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonNhap.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmKhach_Hang.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmLog.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmNhanVien.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmNha_Cung_Cap.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmQuanLyBanHang.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmQuanLyNhapHang.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmSanPham.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTaiKhoan.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTaoTaiKhoan.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmThemHoaDonBan.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmThemHoaDonNhap.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmThongKe.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_Khach_Hang.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_NCC.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTrangChu.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Nam.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Ngay.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Quy.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptKhachHang.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoNam.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoNgay.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoQuy.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptNhaCungCap.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptSanPhamBanChay.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Nam.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Ngay.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Quy.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.exe.licenses
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\bin\Debug\vi-VN\DoAn.resources.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.vi-VN.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\DoAn\obj\Debug\vi-VN\DoAn.resources.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\bin\Debug\vi-VN\DoAn.resources.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.vi-VN.resources
+C:\Users\VAN QUOC\Desktop\DoAn\DoAn\obj\Debug\vi-VN\DoAn.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\bin\Debug\vi-VN\DoAn.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.vi-VN.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\obj\Debug\vi-VN\DoAn.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\vi-VN\DoAn.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\BUS.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DAO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Mvvm.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraWizard.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DTO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\BUS.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DAO.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DAO.dll.config
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DTO.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Mvvm.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraWizard.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonBan.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonNhap.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmKhach_Hang.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmLog.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmNhanVien.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmNha_Cung_Cap.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmQuanLyBanHang.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmQuanLyNhapHang.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmSanPham.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTaiKhoan.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTaoTaiKhoan.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmThemHoaDonBan.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmThemHoaDonNhap.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmThongKe.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_Khach_Hang.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_NCC.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTrangChu.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Nam.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Ngay.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Quy.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptKhachHang.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoNam.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoNgay.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoQuy.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptNhaCungCap.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptSanPhamBanChay.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Nam.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Ngay.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Quy.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.vi-VN.resources
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.exe.licenses
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\vi-VN\DoAn.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.pdb
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe.config
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DoAn.pdb
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\vi-VN\DoAn.resources.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\BUS.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DAO.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.CodeParser.v22.2.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Drawing.v22.2.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Images.v22.2.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Mvvm.v22.2.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraWizard.v22.2.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DTO.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\Guna.Charts.WinForms.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\Guna.UI2.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\BUS.pdb
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DAO.pdb
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DAO.dll.config
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DTO.pdb
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Data.v22.2.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Mvvm.v22.2.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Office.v22.2.Core.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.Xpo.v22.2.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v22.2.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\DevExpress.XtraWizard.v22.2.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.xml
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonBan.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmChiTietHoaDonNhap.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmKhach_Hang.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmLog.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmNhanVien.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\Fut.KhachHang.frmNha_Cung_Cap.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmQuanLyBanHang.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmQuanLyNhapHang.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmSanPham.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTaiKhoan.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTaoTaiKhoan.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmThemHoaDonBan.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\do_an_winform.frmThemHoaDonNhap.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmThongKe.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_Khach_Hang.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\Fut.frmThong_Tin_NCC.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTrangChu.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Nam.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Ngay.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptChi_Quy.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptKhachHang.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoNam.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoNgay.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptKhachHangMuaNhieuTheoQuy.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptNhaCungCap.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptSanPhamBanChay.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Nam.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Ngay.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.rptThu_Quy.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.vi-VN.resources
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.exe.licenses
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\vi-VN\DoAn.resources.dll
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.exe
+E:\anh\ảnh chức năng\DoAn\DoAn\DoAn\DoAn\DoAn\obj\Debug\DoAn.pdb

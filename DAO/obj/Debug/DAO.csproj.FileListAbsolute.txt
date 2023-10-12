@@ -1,0 +1,497 @@
+D:\doan\winform\DoAn\DAO\bin\Debug\DAO.dll.config
+D:\doan\winform\DoAn\DAO\bin\Debug\DAO.dll
+D:\doan\winform\DoAn\DAO\bin\Debug\DAO.pdb
+D:\doan\winform\DoAn\DAO\bin\Debug\DTO.dll
+D:\doan\winform\DoAn\DAO\bin\Debug\EntityFramework.dll
+D:\doan\winform\DoAn\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\doan\winform\DoAn\DAO\bin\Debug\DTO.pdb
+D:\doan\winform\DoAn\DAO\bin\Debug\EntityFramework.xml
+D:\doan\winform\DoAn\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\doan\winform\DoAn\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\doan\winform\DoAn\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\doan\winform\DoAn\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\doan\winform\DoAn\DAO\obj\Debug\DAO.dll
+D:\doan\winform\DoAn\DAO\obj\Debug\DAO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\obj\Debug\DAO.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\obj\Debug\DAO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DAO.dll.config
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DAO.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DAO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DTO.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\EntityFramework.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DTO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\EntityFramework.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\DoAn\DoAn\DAO\bin\Debug\DAO.dll.config
+D:\DoAn\DoAn\DAO\bin\Debug\DAO.dll
+D:\DoAn\DoAn\DAO\bin\Debug\DAO.pdb
+D:\DoAn\DoAn\DAO\bin\Debug\DTO.dll
+D:\DoAn\DoAn\DAO\bin\Debug\EntityFramework.dll
+D:\DoAn\DoAn\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\DoAn\DoAn\DAO\bin\Debug\DTO.pdb
+D:\DoAn\DoAn\DAO\bin\Debug\EntityFramework.xml
+D:\DoAn\DoAn\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\DoAn\DoAn\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\DoAn\DoAn\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\DoAn\DoAn\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\DoAn\DoAn\DAO\obj\Debug\DAO.dll
+D:\DoAn\DoAn\DAO\obj\Debug\DAO.pdb
+E:\DoAn\DoAn\DAO\bin\Debug\DAO.dll.config
+E:\DoAn\DoAn\DAO\bin\Debug\DAO.dll
+E:\DoAn\DoAn\DAO\bin\Debug\DAO.pdb
+E:\DoAn\DoAn\DAO\bin\Debug\DTO.dll
+E:\DoAn\DoAn\DAO\bin\Debug\EntityFramework.dll
+E:\DoAn\DoAn\DAO\bin\Debug\EntityFramework.SqlServer.dll
+E:\DoAn\DoAn\DAO\bin\Debug\DTO.pdb
+E:\DoAn\DoAn\DAO\bin\Debug\EntityFramework.xml
+E:\DoAn\DoAn\DAO\bin\Debug\EntityFramework.SqlServer.xml
+E:\DoAn\DoAn\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+E:\DoAn\DoAn\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\DoAn\DoAn\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\DoAn\DoAn\DAO\obj\Debug\DAO.dll
+E:\DoAn\DoAn\DAO\obj\Debug\DAO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DAO\bin\Debug\DAO.dll.config
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DAO\bin\Debug\DAO.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DAO\bin\Debug\DAO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DAO\bin\Debug\DTO.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DAO\bin\Debug\EntityFramework.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DAO\bin\Debug\DTO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DAO\bin\Debug\EntityFramework.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DAO\obj\Debug\DAO.dll
+C:\Users\VAN QUOC\Desktop\DoAn (2)\DoAn\DoAn\DAO\obj\Debug\DAO.pdb
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DAO.dll.config
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DAO.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DAO.pdb
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DTO.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\EntityFramework.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\EntityFramework.SqlServer.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DTO.pdb
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\EntityFramework.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\EntityFramework.SqlServer.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\obj\Debug\DAO.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\obj\Debug\DAO.pdb
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Data.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Drawing.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Office.v22.2.Core.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraReports.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.DataAccess.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.CodeParser.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Xpo.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Data.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Office.v22.2.Core.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraReports.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.DataAccess.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Xpo.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DAO\obj\Debug\DAO.dll.licenses
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DAO.dll.config
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DAO.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DAO.pdb
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Data.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.XtraReports.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DTO.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\EntityFramework.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DTO.pdb
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Data.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.XtraReports.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\EntityFramework.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.DataAccess.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Xpo.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\obj\Debug\DAO.dll.licenses
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\obj\Debug\DAO.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DAO\obj\Debug\DAO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DAO.dll.config
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DAO.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DAO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DTO.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\EntityFramework.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DTO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\EntityFramework.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\obj\Debug\DAO.dll.licenses
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\obj\Debug\DAO.dll
+C:\Users\VAN QUOC\Desktop\DoAn_Final (1)\DoAn_Final\DoAn_Final\DoAn\DAO\obj\Debug\DAO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DAO\obj\Debug\DAO.dll.licenses
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DAO.dll.config
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DAO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DAO.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DTO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DTO.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\obj\Debug\DAO.dll.licenses
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\obj\Debug\DAO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DAO\obj\Debug\DAO.pdb
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DAO.dll.config
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DAO.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DAO.pdb
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.Data.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.Drawing.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.Office.v22.2.Core.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraReports.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DTO.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\EntityFramework.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\EntityFramework.SqlServer.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.DataAccess.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.CodeParser.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.Xpo.v22.2.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DTO.pdb
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.Data.v22.2.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.Office.v22.2.Core.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraReports.v22.2.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\EntityFramework.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\EntityFramework.SqlServer.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.DataAccess.v22.2.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\bin\Debug\DevExpress.Xpo.v22.2.xml
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\obj\Debug\DAO.dll.licenses
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\obj\Debug\DAO.dll
+E:\Ảnh\DoAn (1)\DoAn\DoAn\DAO\obj\Debug\DAO.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DAO.dll.config
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DAO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DAO.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DTO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DTO.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\obj\Debug\DAO.dll.licenses
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\obj\Debug\DAO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DAO\obj\Debug\DAO.pdb
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DAO.dll.config
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DAO.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DAO.pdb
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DTO.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\EntityFramework.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DTO.pdb
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\EntityFramework.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\obj\Debug\DAO.dll.licenses
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\obj\Debug\DAO.dll
+C:\Users\VAN QUOC\Desktop\a\DoAn\DAO\obj\Debug\DAO.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DAO.dll.config
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DAO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DAO.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DTO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DTO.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\obj\Debug\DAO.dll.licenses
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\obj\Debug\DAO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DAO\obj\Debug\DAO.pdb

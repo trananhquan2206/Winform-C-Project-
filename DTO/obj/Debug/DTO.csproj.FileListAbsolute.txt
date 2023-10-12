@@ -1,0 +1,131 @@
+D:\doan\winform\DoAn\DTO\bin\Debug\DTO.dll
+D:\doan\winform\DoAn\DTO\bin\Debug\DTO.pdb
+D:\doan\winform\DoAn\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\doan\winform\DoAn\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\doan\winform\DoAn\DTO\obj\Debug\DTO.dll
+D:\doan\winform\DoAn\DTO\obj\Debug\DTO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn\DTO\bin\Debug\DTO.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DTO\bin\Debug\DTO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\VAN QUOC\Desktop\DoAn\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\VAN QUOC\Desktop\DoAn\DTO\obj\Debug\DTO.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DTO\obj\Debug\DTO.pdb
+D:\DoAn\DoAn\DTO\bin\Debug\DTO.dll
+D:\DoAn\DoAn\DTO\bin\Debug\DTO.pdb
+D:\DoAn\DoAn\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\DoAn\DoAn\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\DoAn\DoAn\DTO\obj\Debug\DTO.dll
+D:\DoAn\DoAn\DTO\obj\Debug\DTO.pdb
+C:\Users\VAN QUOC\Desktop\DoAn\DTO\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DTO\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DTO\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DTO\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DTO\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DTO\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DTO\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DTO\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DTO\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DTO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\VAN QUOC\Desktop\DoAn\DTO\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DTO\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DTO\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DTO\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DTO\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DTO\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DTO\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DTO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\VAN QUOC\Desktop\DoAn\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\DoAn\DoAn\DTO\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\DoAn\DoAn\DTO\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\DoAn\DoAn\DTO\bin\Debug\DevExpress.Data.v22.2.dll
+D:\DoAn\DoAn\DTO\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\DoAn\DoAn\DTO\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\DoAn\DoAn\DTO\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\DoAn\DoAn\DTO\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\DoAn\DoAn\DTO\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\DoAn\DoAn\DTO\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\DoAn\DoAn\DTO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\DoAn\DoAn\DTO\bin\Debug\DevExpress.DataAccess.v22.2.xml
+D:\DoAn\DoAn\DTO\bin\Debug\DevExpress.Xpo.v22.2.xml
+D:\DoAn\DoAn\DTO\bin\Debug\DevExpress.Data.v22.2.xml
+D:\DoAn\DoAn\DTO\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\DoAn\DoAn\DTO\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\DoAn\DoAn\DTO\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\DoAn\DoAn\DTO\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\DoAn\DoAn\DTO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\DoAn\DoAn\DTO\obj\Debug\DTO.csproj.CopyComplete
+E:\LTWDs\TestDoAn\DoAn\DoAn\DTO\bin\Debug\DTO.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DTO\bin\Debug\DTO.pdb
+E:\LTWDs\TestDoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.DataAccess.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.Xpo.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.Data.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.CodeParser.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.Office.v22.2.Core.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.Drawing.v22.2.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.DataAccess.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.Xpo.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.Data.v22.2.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.Office.v22.2.Core.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\LTWDs\TestDoAn\DoAn\DoAn\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\LTWDs\TestDoAn\DoAn\DoAn\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\LTWDs\TestDoAn\DoAn\DoAn\DTO\obj\Debug\DTO.csproj.CopyComplete
+E:\LTWDs\TestDoAn\DoAn\DoAn\DTO\obj\Debug\DTO.dll
+E:\LTWDs\TestDoAn\DoAn\DoAn\DTO\obj\Debug\DTO.pdb
+D:\DoAn_Final\DoAn_Final\DoAn\DTO\bin\Debug\DTO.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DTO\bin\Debug\DTO.pdb
+D:\DoAn_Final\DoAn_Final\DoAn\DTO\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DTO\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DTO\bin\Debug\DevExpress.Data.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DTO\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DTO\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DTO\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DTO\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DTO\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DTO\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DTO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DTO\bin\Debug\DevExpress.DataAccess.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DTO\bin\Debug\DevExpress.Xpo.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DTO\bin\Debug\DevExpress.Data.v22.2.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DTO\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DTO\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DTO\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DTO\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DTO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\DoAn_Final\DoAn_Final\DoAn\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\DoAn_Final\DoAn_Final\DoAn\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\DoAn_Final\DoAn_Final\DoAn\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\DoAn_Final\DoAn_Final\DoAn\DTO\obj\Debug\DTO.dll
+D:\DoAn_Final\DoAn_Final\DoAn\DTO\obj\Debug\DTO.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DTO\bin\Debug\DTO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DTO\bin\Debug\DTO.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DTO\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DTO\obj\Debug\DTO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DoAn\DoAn\DoAn\DoAn\DTO\obj\Debug\DTO.pdb
